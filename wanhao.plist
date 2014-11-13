@@ -33,15 +33,15 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.tsxr.wanhao</string>
+          <string>com.tsxr.liao</string>
           <key>bundle-version</key>
           <string>13.09.22.26</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>万豪网络电话</string>
+          <string>聊聊网络电话</string>
           <key>title</key>
-          <string>万豪网络电话</string>
+          <string>聊聊网络电话</string>
         </dict>
       </dict>
     </array>
