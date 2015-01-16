@@ -33,7 +33,7 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.tsxr.IXin</string>
+          <string>com.tsxr.ix</string>
           <key>bundle-version</key>
           <string>13.09.22.26</string>
           <key>kind</key>
