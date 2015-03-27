@@ -33,15 +33,15 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.DsYs.LLVoip</string>
+          <string>com.liao.voip</string>
           <key>bundle-version</key>
           <string>13.09.22.26</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>聊聊1.0</string>
+          <string>聊聊2.1.3</string>
           <key>title</key>
-          <string>聊聊1.0</string>
+          <string>聊聊2.1.3</string>
         </dict>
       </dict>
     </array>
