@@ -33,7 +33,7 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.DsYs.LLVoip</string>
+          <string>com.DsYs.llDH</string>
           <key>bundle-version</key>
           <string>13.09.22.26</string>
           <key>kind</key>
