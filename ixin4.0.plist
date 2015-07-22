@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://7xidjl.com2.z0.glb.qiniucdn.com/ixin.ipa</string>
+                    <string>http://app.ixincall.com/ixin.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-    <string>lizx_market@shliaoliao.com</string>
+    <string>com.dingS.huanqiu</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
